@@ -12,6 +12,8 @@ How/What:       Performs Hmmer searches against the PDB and the MCSA
                 
 To use:         Need one folder entitled 'Fastas' containing all target fastas
                 If using outside of genomecenter cluster, will need new path's for PDB and MCSA databases
+                
+Python Modules: pandas, os, pypdb
 
 
 =================
